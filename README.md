@@ -1,4 +1,4 @@
-# Sea-of-Pokemon
+# Project Z-Wave
 Status: 🛠️ ACTIVE DEVELOPMENT (You are reading the live code-logs!)
 Welcome to the 20-player, open-world Pokémon pirate epic developed on a Pentium 4405U (because efficiency is king).
 The Merit System
